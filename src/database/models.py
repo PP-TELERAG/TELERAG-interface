@@ -1,4 +1,4 @@
-from sqlalchemy.types import BigInteger, String
+from sqlalchemy.types import BigInteger
 from sqlalchemy.orm import DeclarativeBase, Mapped, mapped_column
 from sqlalchemy.ext.asyncio import AsyncAttrs
 
